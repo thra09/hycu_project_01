@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
     font-family: 'AppleSDGothicNeoUL' bold;
@@ -47,7 +47,7 @@
 
 .sub {
     position: absolute;
-    top: 12%;
+    top: 11%;
     left: 50%;
     transform: translateX(-50%);
     font-family: 'Chiron Sung HK', serif;
@@ -57,7 +57,7 @@
 
 .author-name {
     position: absolute;
-    top: 24.3%;
+    top: 26%;
     left: 50%;
     font-size: 19px;
     transform: translateX(-50%);
