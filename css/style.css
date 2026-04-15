@@ -191,7 +191,7 @@
 .content-section {
     width: 100%;
     min-height: 100vh;
-    background: url("img/bg2.jpg") no-repeat center/cover;
+    background: url("../img/bg2.jpg") no-repeat center/cover;
     display: flex;
     justify-content: center;
     padding: 80px 0;
