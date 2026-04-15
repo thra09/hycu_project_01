@@ -30,7 +30,7 @@
 /* 메인 */
 .main {
     height: 100vh;
-    background: url("img/bg1.jpg") no-repeat center/cover;
+    background: url("../img/bg1.jpg") no-repeat center/cover;
     position: relative;
     color: white;
     text-align: center;
